@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 /// This module is the part 2 of our NFT Move tutorial, building on top of part 1. In this part of the tutorial, we introduce the concept of a resource
 /// account and add a resource account on top of the previous tutorial.
 ///
@@ -210,3 +217,10 @@ module gifts::open_gift {
 }
 Powered by
 Aptos Blockchain
+
+
+
+
+
+ref:
+https://aptscan.ai/modules/0x24a91389018e48098920ea3e724348821a74eb480d2f2382a8970cc687b0a210/open_gift?tab=module
